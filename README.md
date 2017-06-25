@@ -1,17 +1,16 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+学习 Railsfun 视频尝试建立的一个工程
 
 Things you may want to cover:
 
-* Ruby version
+* Ruby version：`ruby 2.3.1p112 (2016-04-26 revision 54768) [x86_64-darwin14]`
 
-* System dependencies
+* System dependencies：`macOS 10.10.5`
 
-* Configuration
+* Configuration：RubyMine
 
-* Database creation
+* Database creation：MySQL
 
 * Database initialization
 
